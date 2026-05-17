@@ -30,6 +30,7 @@ This project demonstrates practical skills in:
 
 ## Project Structure
 
+```text
 RESTAURANTPROJECT/
 │
 ├── dags/
