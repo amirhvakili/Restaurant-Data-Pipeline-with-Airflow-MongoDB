@@ -45,7 +45,6 @@ RESTAURANTPROJECT/
 │   ├── high_density_cities.py
 │   └── load_mongodb.py
 │
-├── logs/
 ├── airflow.cfg
 ├── requirements.txt
 ├── README.md
