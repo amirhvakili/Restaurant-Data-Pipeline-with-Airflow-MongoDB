@@ -1,4 +1,4 @@
-# Restaurant Data Pipeline with Apache Airflow + MongoDB
+# restaurant-etl-pipeline
 
 ## Project Overview
 
